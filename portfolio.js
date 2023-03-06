@@ -6,7 +6,7 @@ export const greetings = {
   description:
     "A curious software engineer exploring the world of Computers. Experienced in developing and maintaining efficient, high-performance server-side systems that can handle large amounts of data and traffic. Skilled in Java, SpringBoot as well as MongoDB, Kafka, and SQS. Interested in solving challenging algorithmic problems in the software industry.",
   resumeLink:
-    'https://drive.google.com/file/d/1c-rLhu0iI39Yz103hgt2JhwmE2NO_Hyf/view?usp=sharing',
+    'https://drive.google.com/file/d/10FIVLoN79Pp71pV7HQGPdENn54eDqQAr/view?usp=sharing',
 };
 
 
